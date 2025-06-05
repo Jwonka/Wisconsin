@@ -1,3 +1,3 @@
 # Wisconsin
 
-A tourism website for Wisconsin.
+A website for attracting tourists to Wisconsin.
