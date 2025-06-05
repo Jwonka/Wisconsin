@@ -1,3 +1,3 @@
 # Wisconsin
 
-Generic tourism website for Wisconsin.
+A tourism website for Wisconsin.
